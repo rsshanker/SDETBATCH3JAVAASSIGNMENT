@@ -4,7 +4,7 @@ public class RevereseArray {
 	public static void main(String[] args) {
 		
 		int[] arrayInt = {1,2,3,4,5};
-		String[] arrayString = {"Abhilash","Kothagundu"};
+		String[] arrayString = {"Shiva","Shanker"};
 		
 		RevereseArray rv = new RevereseArray();
 		rv.reversearray(arrayInt);
